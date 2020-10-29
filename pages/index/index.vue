@@ -5,13 +5,13 @@
 
 		<!-- 头部 -->
 		<view title>
-			<view class="title">关于征集山东省“十四五”发展意见建议的公告</view>
+			<!-- <view class="title">关于征集山东省“十四五”发展意见建议的公告</view> -->
 			<view class="title_text">十四五”时期（2021-2025年），是我国全面建成小康社会、实现第一个百年奋斗目标之后，乘势而上开启全面建设社“十四五”时期（2021-2025年），是我国全面建成小康社会、实现第一个百年奋斗目标之后，乘势而上开启全面建设社会主义现代化国家新征程、向第二个百年奋斗目标进军的第一个五年，也是我省奋力实现”走在前列、全面开创”目标任务，推动高质量发展的关键五年。科学编制“十四五”规划，对于巩固提升全面建成小康社会成果，加快新时代现代化强省建设意义重大。为提高规划编制透明度、民主参与度，坚持开门编规划，健全公众参与机制，山东省发展改革委向社会各界征集我省“十四五”规划编制意见建议。</view>
-			<view class="title">一、征集内容</view>
-			<view class="title_text" style="text-indent: 0;">围绕我省经济建设、制造强省、数字经济、实体经济、创新型省份建设、乡村振兴、海洋强省、区域协调、深化改革、对外开放、公平法治、思想文化、教育卫生、就业创业、收入分配、社会保障、社会治理、防灾救灾、应急安全、生态文明、军民融合、党的建设等方面，提出意见建议。</view>
-			<view class="title" style="margin-bottom: 0;">二、征集时间</view>
-			<view class="title" style="margin-bottom: 0;">2020年9月1日至10月31日</view>
-			<view class="title_text" style="text-indent: 0;margin-top: 0;">对于大家提出的意见建议，我们将认真整理并研究吸纳，感谢您的大力支持！</view>
+			<view class="title">征集内容</view>
+			<view class="title_text">围绕我省经济建设、制造强省、数字经济、实体经济、创新型省份建设、乡村振兴、海洋强省、区域协调、深化改革、对外开放、公平法治、思想文化、教育卫生、就业创业、收入分配、社会保障、社会治理、防灾救灾、应急安全、生态文明、军民融合、党的建设等方面，提出意见建议。</view>
+			<!-- <view class="title" style="margin-bottom: 0;">二、征集时间</view>
+			<view class="title" style="margin-bottom: 0;">2020年9月1日至10月31日</view> -->
+			<view class="title_text" >对于大家提出的意见建议，我们将认真整理并研究吸纳，感谢您的大力支持！</view>
 		</view>
 
 		<!-- 分割线 -->
@@ -258,7 +258,7 @@
 	.title_text {
 		font-size: 28rpx;
 		text-indent: 2em;
-		margin-top: 20rpx;
+		margin-top: 30rpx;
 		margin-bottom: 10rpx;
 		line-height: 1.3rem;
 		font-family: 400;
